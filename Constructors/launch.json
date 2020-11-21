@@ -7,7 +7,7 @@
 
         {
             "name": "Dart & Flutter",
-            "program": "lib/OOP/PrivateKullanimi.dart", // Hangi projenin çalıştırılmasını istiyorsanız onun konumunu belirtin
+            "program": "lib/OOP/Constructors.dart", // Hangi projenin çalıştırılmasını istiyorsanız onun konumunu belirtin
             "request": "launch",
             "type": "dart"
 
